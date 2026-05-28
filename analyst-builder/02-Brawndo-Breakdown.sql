@@ -20,7 +20,7 @@
 
 -- TECHNIQUE USED:
 -- simple GROUP BY and ORDER BY
---
+
 -- TIME TAKEN: 2 minutes (solo, no hints)
 
 -- MANUFACTURING PARALLEL:

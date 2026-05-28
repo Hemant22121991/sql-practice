@@ -15,14 +15,12 @@
 
 -- TECHNIQUE USED:
 -- subquery
---
+
 -- TIME TAKEN: 5 minutes (solo, no hints)
 
 -- MANUFACTURING PARALLEL:
 --   Same pattern applies for project profitability analysis
 -- ============================================================
-
-
 
 -- STEP - 01: Calculate profit margin across all orders
 -- STEP - 02: Find Average of profit_margin
